@@ -1,0 +1,82 @@
+1. Hvað gera eftirfarandi Linux skipanir?
+	
+	cd
+	
+	* let's you go into the foldur you want to go in, it's ues to navigate your computer
+	
+	cd ~
+	
+	* goes to the home directory
+	
+	ls
+	
+	* is the list of the contents in the directory 
+	
+	pwd
+	
+	* print working directory writes the pathname in the working directory.
+	
+	mkdir
+	
+	* is used to create a directory
+
+
+2. Hvað gera eftirfarandi git skipanir:
+
+	git clone
+	
+	* makes a clone of the repository
+	
+	git log
+	
+	* It's show the log for all the commits to the repository
+	
+	git status
+	
+	* show you the files in the folder you are going to commit to the repository
+	
+	git diff
+	
+	* shows the difference between two files, mostly used to see the difference from commits
+	
+	git checkout
+	
+	* reseting all of your files from the time the git was commited
+
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	
+	a) git diff 
+	
+	* shows the difference between too files and marks what has been changed in each files
+	
+	b) git diff --staged 
+	
+	* git diff --staged and git diff --cached are kind of the same thing, they both only show file that are
+	in the staged area.
+	
+	c) git diff commit1 commit2
+	
+	* shows the difference between too files, uses the id from each in the log and checks what has
+	changed.
+
+
+4. Hvað er version control, hverjir eru helstu kostir við að nota GIT?
+
+	* version control er notað til að halda saman skrá með verkefninu þínu og í því er hægt að savea hvert
+	skifti sem það er commit og er mjög hentugt ef verkefni skemmist eða eyðilegst því að er alltaf back up
+	af verkefninu í loginu.
+
+5. Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+
+	* Hvert skipti sem það eru gerðar einhverjar breyttingar á því, því ef það verður einhvað vandamál með verkefnið
+	þá er hægt að finna vandamálið auðveldlega bara með að annað hvort sjá muninn á breittingunum og file-inu eða backtracka
+	að því þegar verkefnið virkaði með git checkout.
+
+6. Hvernig eru Working directory, Staging area og Repository frábrugðin í GIT,
+   til hvers eru þau?
+   
+	* staging area er staður þar sem allt sem þú hefur breytt í verkefninu er þangað til að þú commit-ar,
+	* Repository er þar sem allt verkefnið er og þú bætir í það með að commit-a
+	* Working Directory er eins og hvernig console-inu virkar
+   
