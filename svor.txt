@@ -9,3 +9,25 @@ ls    = * is the list of the contents in the directory
 pwd   =	* print working directory writes the pathname in the working directory.
 	
 mkdir =	* is used to create a directory
+
+2. Hvað gera eftirfarandi git skipanir:
+
+	git clone
+	
+	* makes a clone of the repository
+	
+	git log
+	
+	* It's show the log for all the commits to the repository
+	
+	git status
+	
+	* show you the files in the folder you are going to commit to the repository
+	
+	git diff
+	
+	* shows the difference between two files, mostly used to see the difference from commits
+	
+	git checkout
+	
+	* reseting all of your files from the time the git was commited
