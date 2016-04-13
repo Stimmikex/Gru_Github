@@ -59,4 +59,11 @@ mkdir =	* is used to create a directory
 	* Hvert skipti sem það eru gerðar einhverjar breyttingar á því, því ef það verður einhvað vandamál með verkefnið
 	þá er hægt að finna vandamálið auðveldlega bara með að annað hvort sjá muninn á breittingunum og file-inu eða backtracka
 	að því þegar verkefnið virkaði með git checkout.
+	
+6. Hvernig eru Working directory, Staging area og Repository frábrugðin í GIT,
+   til hvers eru þau?
+   
+	* staging area er staður þar sem allt sem þú hefur breytt í verkefninu er þangað til að þú commit-ar,
+	* Repository er þar sem allt verkefnið er og þú bætir í það með að commit-a
+	* Working Directory er eins og hvernig console-inu virkar
 
