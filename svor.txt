@@ -1,3 +1,11 @@
 styrmir
 
-cd = 	* let's you go into the folder you want to go in, it's used to navigate your computer
+cd    = * let's you go into the folder you want to go in, it's used to navigate your computer
+
+cd ~  =	* goes to the home directory
+
+ls    = * is the list of the contents in the directory 
+	
+pwd   =	* print working directory writes the pathname in the working directory.
+	
+mkdir =	* is used to create a directory
