@@ -67,3 +67,7 @@ mkdir =	* is used to create a directory
 	* Repository er þar sem allt verkefnið er og þú bætir í það með að commit-a
 	* Working Directory er eins og hvernig console-inu virkar
 
+7. Hvenar væri sniðugt að nota branches?
+
+	* það er sniðugt að nota branches þegar mér langar að gera breytingar án þess að breytta aðal filinu
+	eða það er allavega það sem mér dettur í hug um notkun branches.
