@@ -71,6 +71,7 @@ mkdir =	* is used to create a directory
 	
 	e81204b5df7a7c885bfcf9767aeeb595d1d18d92
 
+	s
 
 7. Hvenar væri sniðugt að nota branches?
 
