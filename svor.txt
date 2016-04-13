@@ -1,0 +1,3 @@
+styrmir
+
+cd = 	* let's you go into the folder you want to go in, it's used to navigate your computer
