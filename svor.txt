@@ -31,3 +31,20 @@ mkdir =	* is used to create a directory
 	git checkout
 	
 	* reseting all of your files from the time the git was commited
+	
+3. Hver er munurinn á eftirfarandi git skipunum:
+	
+	a) git diff 
+	
+	* shows the difference between too files and marks what has been changed in each files
+	
+	b) git diff --staged 
+	
+	* git diff --staged and git diff --cached are kind of the same thing, they both only show file that are
+	in the staged area.
+	
+	c) git diff commit1 commit2
+	
+	* shows the difference between too files, uses the id from each in the log and checks what has
+	changed.
+
