@@ -66,6 +66,11 @@ mkdir =	* is used to create a directory
 	* staging area er staður þar sem allt sem þú hefur breytt í verkefninu er þangað til að þú commit-ar,
 	* Repository er þar sem allt verkefnið er og þú bætir í það með að commit-a
 	* Working Directory er eins og hvernig console-inu virkar
+	
+	2509972569
+	
+	e81204b5df7a7c885bfcf9767aeeb595d1d18d92
+
 
 7. Hvenar væri sniðugt að nota branches?
 
