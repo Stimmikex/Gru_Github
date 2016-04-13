@@ -47,4 +47,10 @@ mkdir =	* is used to create a directory
 	
 	* shows the difference between too files, uses the id from each in the log and checks what has
 	changed.
+	
+4. Hvað er version control, hverjir eru helstu kostir við að nota GIT?
+
+	* version control er notað til að halda saman skrá með verkefninu þínu og í því er hægt að savea hvert
+	skifti sem það er commit og er mjög hentugt ef verkefni skemmist eða eyðilegst því að er alltaf back up
+	af verkefninu í loginu.
 
