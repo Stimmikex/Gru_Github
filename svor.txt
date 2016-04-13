@@ -53,4 +53,10 @@ mkdir =	* is used to create a directory
 	* version control er notað til að halda saman skrá með verkefninu þínu og í því er hægt að savea hvert
 	skifti sem það er commit og er mjög hentugt ef verkefni skemmist eða eyðilegst því að er alltaf back up
 	af verkefninu í loginu.
+	
+5. Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+
+	* Hvert skipti sem það eru gerðar einhverjar breyttingar á því, því ef það verður einhvað vandamál með verkefnið
+	þá er hægt að finna vandamálið auðveldlega bara með að annað hvort sjá muninn á breittingunum og file-inu eða backtracka
+	að því þegar verkefnið virkaði með git checkout.
 
